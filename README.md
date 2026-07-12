@@ -90,15 +90,6 @@ npm run dev
 ### MongoDB
 For local MongoDB, make sure the database server is running before starting the backend.
 
-## Docker setup
-
-If you want to avoid installing MongoDB locally, the project can be run with Docker Compose using three containers: MongoDB, backend, and frontend.
-
-Typical command:
-
-```bash
-docker compose up --build
-```
 
 ## Security notes
 - Raw passwords are never stored
@@ -107,11 +98,6 @@ docker compose up --build
 - Helmet is enabled
 - Environment variables are used for secrets and runtime configuration
 
-## Use cases
-- Personal exposure analysis
-- Security awareness demos
-- Portfolio-grade MERN project showcase
-- Explainable risk scoring prototype
 
 ## Future improvements
 - Real breach API integrations
@@ -120,6 +106,12 @@ docker compose up --build
 - Report sharing and email delivery
 - Stronger posture analysis signals
 
+## Author
+
+Abhishek Singh Sikarwar || Web Developer
+
+
 ## License
 
 This project is published under the MIT License.
+
