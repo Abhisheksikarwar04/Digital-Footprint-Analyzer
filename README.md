@@ -101,8 +101,6 @@ For local MongoDB, make sure the database server is running before starting the 
 
 ## Future improvements
 - Real breach API integrations
-- Redis caching
-- User accounts and saved history
 - Report sharing and email delivery
 - Stronger posture analysis signals
 
