@@ -102,14 +102,13 @@ For local MongoDB, make sure the database server is running before starting the 
 ## Future improvements
 - Real breach API integrations
 - Report sharing and email delivery
-- Stronger posture analysis signals
+
 
 ## Author
 
-Abhishek Singh Sikarwar || Web Developer
+Abhishek Singh Sikarwar
 
 
 ## License
 
 This project is published under the MIT License.
-
